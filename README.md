@@ -356,7 +356,7 @@ This is a dynamic platform plugin for Matterbridge that exposes Tesla charging c
 
 ### [Vallox ventilation](https://github.com/sconix/matterbridge-vallox-ventilation)
 
-This is a dynamic platform plugin for Matterbridge that exposes Vallox ventilation units as Matter devices via local API.
+This is a dynamic platform plugin for Matterbridge that exposes Vallox ventilation units as Matter devices via the Vallox local API.
 
 ## How to install and add a plugin with the frontend (best option)
 
