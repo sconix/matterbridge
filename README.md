@@ -346,13 +346,21 @@ The plugin uses local connection to Daikin Wifi modules. The plugin does not wor
 
 Matterbridge Roborock Platform Plugin is a dynamic platform plugin for Matterbridge that integrates Roborock vacuums into the Matter ecosystem, enabling control via Apple Home and other Matter-compatible apps.
 
-### [Bosch heatpumps](https://github.com/sconix/matterbridge-bosch-heatpump)
+### [Balboa gateway](https://github.com/sconix/matterbridge-balboa-gateway)
+
+This is a dynamic platform plugin for Matterbridge that exposes Balboa wifi gateways as Matter devices via the CMS API.
+
+### [Bosch heatpump](https://github.com/sconix/matterbridge-bosch-heatpump)
 
 This is a dynamic platform plugin for Matterbridge that exposes Bosch heatpumps as Matter devices via the Bosch cloud API.
 
 ### [Tesla charging](https://github.com/sconix/matterbridge-tesla-charging)
 
 This is a dynamic platform plugin for Matterbridge that exposes Tesla charging controls as Matter devices via the Tesla Fleet API.
+
+### [Uponor cooling](https://github.com/sconix/matterbridge-uponor-cooling)
+
+This is a dynamic platform plugin for Matterbridge that exposes Uponor floor cooling mode control as Matter devices via the Pulse API.
 
 ### [Vallox ventilation](https://github.com/sconix/matterbridge-vallox-ventilation)
 
